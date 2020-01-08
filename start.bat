@@ -48,7 +48,7 @@ pause
 exit
 
 :translate
-gulp 
+gulp
 pause
 exit
 
