@@ -1,0 +1,27 @@
+.wpsm_heading_number {
+  position: relative;
+  padding: 1px 0;
+}
+.wpsm_heading_number .number {
+  color: #f0f0f0;
+  font-size: 6em;
+  font-weight: 600;
+  position: absolute;
+  line-height: 1;
+  top: 0;
+  left: 0; }
+.wpsm_heading_number h3 {
+  margin: 30px 0 40px; }
+.wpsm_heading_number .description {
+  margin: 0; }
+.wpsm_heading_number.boxed {
+  background: #f9f9f9;
+  padding: 35px;
+  margin-top: 50px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px; }
+.wpsm_heading_number.boxed .number {
+  top: -45px;
+  left: 35px; }
+.wpsm_heading_number.boxed h3 {
+  margin: 20px 0 10px; }
